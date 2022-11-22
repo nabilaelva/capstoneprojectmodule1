@@ -1,2 +1,4 @@
-# capstoneprojectmodule1
-Capstone Project from Purwadhika Module 1
+# Capstone Project Module 1 - Yellow Pages Book
+
+# Setup
+Capstone Project Modul 1.py
