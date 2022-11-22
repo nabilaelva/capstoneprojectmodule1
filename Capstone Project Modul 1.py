@@ -271,9 +271,7 @@ def update_data():
         decision_save = int(input("\nPilihan simpan data: "))
         if (decision_save == 1):
           print("\nData berhasil diubah")
-          # print("\n",data[index_biz_name_to_change + 1]) ###################masih salah
-          # print(data)
-          showAllData()  #########kenapa malah 2x???
+          showAllData()
         elif (decision_save == 2):
           update_data()
         else:
