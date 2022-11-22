@@ -83,16 +83,12 @@ def main_menu():
   pilihan_menu = int(input("\nSilakan Pilih Menu (1-5) : "))
 
   if (pilihan_menu == 1):
-    # clear_screen()
     access_data()
   elif (pilihan_menu == 2):
-    #     clear_screen()
     add_data()
   elif (pilihan_menu == 3):
-    #     clear_screen()
     update_data()
   elif (pilihan_menu == 4):
-    #     clear_screen()
     delete_data()
   elif (pilihan_menu == 5):
     print("\nApakah Anda yakin akan keluar dari aplikasi?")
